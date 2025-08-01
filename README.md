@@ -1,2 +1,2 @@
 # spreadsheets
-Repository of Spreadsheet templates
+Repository of Spreadsheet templates for various applications
